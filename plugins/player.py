@@ -174,7 +174,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="💥 REPO💞",
-                            url=f"https://github.com/VENOMxCRAZY9/VENOMxOPxMUSIC")
+                            url=f"https://t.me/iSOILSPAM")
 
                 ]
             ]
@@ -213,7 +213,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="REPO",
-                            url=f"https://github.com/VENOMxCRAZY9/VENOMxOPxMUSIC")
+                            url=f"https://t.me/iSOILSPAM")
 
                 ]
             ]
@@ -229,7 +229,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="MUSIC-REPO",
-                            url=f"https://t.me/V3NOM_SUPPORT")
+                            url=f"https://t.me/iSOILSPAM")
 
                 ]
             ]
@@ -283,7 +283,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="💞𝐒𝐔𝐌𝐏𝐎𝐑𝐓",
-                            url=f"https://t.me/v3nom_support")
+                            url=f"https://t.me/Lover_PoinT00")
 
                 ]
             ]
